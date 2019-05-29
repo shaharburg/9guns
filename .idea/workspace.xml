@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f6f6a80-570b-48ac-a47f-55c0454dc536" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/9guns.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/placeholder.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/placeholder" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/placeholder.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/catalog/placeholder.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/product/placeholder.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/profile/placeholder.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/placeholder1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/placeholder1" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,11 +57,6 @@
               <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/placeholder1">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
@@ -170,11 +154,6 @@
               <item name="pages" type="462c0819:PsiDirectoryNode" />
               <item name="profile" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="9guns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="9guns" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -217,15 +196,16 @@
       <workItem from="1559059189184" duration="135000" />
       <workItem from="1559059339895" duration="232000" />
       <workItem from="1559059589903" duration="101000" />
-      <workItem from="1559120154754" duration="2196000" />
+      <workItem from="1559120154754" duration="2498000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3027000" />
+    <option name="totallyTimeSpent" value="3329000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26172465" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
