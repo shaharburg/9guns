@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f6f6a80-570b-48ac-a47f-55c0454dc536" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/test/placeholder1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme" beforeDir="false" afterPath="$PROJECT_DIR$/readme" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +63,9 @@
         <entry file="file://$PROJECT_DIR$/readme">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="98">
+                <caret line="13" column="50" lean-forward="true" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -92,6 +94,7 @@
         <option value="$PROJECT_DIR$/pages/catalog/placeholder.html" />
         <option value="$PROJECT_DIR$/pages/product/placeholder.html" />
         <option value="$PROJECT_DIR$/pages/profile/placeholder.html" />
+        <option value="$PROJECT_DIR$/readme" />
       </list>
     </option>
   </component>
@@ -196,12 +199,12 @@
       <workItem from="1559059189184" duration="135000" />
       <workItem from="1559059339895" duration="232000" />
       <workItem from="1559059589903" duration="101000" />
-      <workItem from="1559120154754" duration="2498000" />
+      <workItem from="1559120154754" duration="3646000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3329000" />
+    <option name="totallyTimeSpent" value="4477000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -241,13 +244,6 @@
     <entry file="file://$PROJECT_DIR$/js/placeholder.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/catalog/placeholder.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/product/placeholder.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -271,10 +267,19 @@
     <entry file="file://$PROJECT_DIR$/test/placeholder1">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/pages/catalog/placeholder.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/readme">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="98">
+            <caret line="13" column="50" lean-forward="true" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
